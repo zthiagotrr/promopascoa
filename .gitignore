@@ -1,0 +1,11 @@
+﻿# HTTrack/local artifacts
+hts-cache/
+hts-log.txt
+cookies.txt
+
+# OS/editor
+Thumbs.db
+.DS_Store
+
+# Vercel local metadata
+.vercel/
